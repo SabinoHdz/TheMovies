@@ -1,0 +1,20 @@
+{
+  "name": "TheMovies",
+  "version": "1.0.0",
+  "description": "Consumo de APIs de la prataforma  The Movies DataBase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabinoHdz/TheMovies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabinoHdz/TheMovies/issues"
+  },
+  "homepage": "https://github.com/SabinoHdz/TheMovies#readme"
+}
